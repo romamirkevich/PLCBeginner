@@ -14,7 +14,7 @@ M221 - Швидкодія і можливості:
 
 
 
-![](media/01_Modicon M221_new_0000003.jpg)
+![](media/01_03.jpg)
 
 ![](media/01_Modicon M221_new_0000004.jpg)
 
