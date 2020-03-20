@@ -1,4 +1,4 @@
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000002.jpg)
+![](media\01_Modicon M221_new_0000002.jpg)
 
 
 
@@ -14,9 +14,9 @@ M221 - Швидкодія і можливості:
 
 
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000003.jpg)
+![](media\01_Modicon M221_new_0000003.jpg)
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000004.jpg)
+![](media\01_Modicon M221_new_0000004.jpg)
 
 
 
@@ -27,9 +27,9 @@ M221 - Швидкодія і можливості:
   - 0-20/4-20 мА;
   - Термопари і термосопротивления.
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000005.jpg)
+![](media\01_Modicon M221_new_0000005.jpg)
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000006.jpg)
+![](media\01_Modicon M221_new_0000006.jpg)
 
 
 
@@ -39,13 +39,13 @@ M221 - Швидкодія і можливості:
 - Modbus RTU/ASCII;
 - Символьний режим.
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000007.jpg)
+![](media\01_Modicon M221_new_0000007.jpg)
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000008.jpg)
+![](media\01_Modicon M221_new_0000008.jpg)
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000009.jpg)
+![](media\01_Modicon M221_new_0000009.jpg)
 
-![](C:\github\PLCBeginner\Лекції\media\01_Modicon M221_new_0000011.jpg)
+![](media\01_Modicon M221_new_0000011.jpg)
 
 
 
