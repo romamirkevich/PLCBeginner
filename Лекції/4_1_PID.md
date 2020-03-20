@@ -13,16 +13,16 @@ SoMachine Basic PID controller:
 - %MWxx = 3: AT mode only; 
 - %MWxx = 4: PID mode, with PI corrector type.
 
-![](C:\github\PLCBeginner\Лекції\media\4_1_PID_0002.jpg)
+![](media/4_1_02.jpg)
 
-![4_1_PID_0004](C:\github\PLCBeginner\Лекції\media\4_1_PID_0004.jpg)
+![](media/4_1_04.jpg)
 
-![4_1_PID_0005](C:\github\PLCBeginner\Лекції\media\4_1_PID_0005.jpg)
+![](media/4_1_05.jpg)
 
-![4_1_PID_0006](C:\github\PLCBeginner\Лекції\media\4_1_PID_0006.jpg)
+![](media/4_1_06.jpg)
 
-![4_1_PID_0007](C:\github\PLCBeginner\Лекції\media\4_1_PID_0007.jpg)
+![](media/4_1_07.jpg)
 
-![4_1_PID_0008](C:\github\PLCBeginner\Лекції\media\4_1_PID_0008.jpg)
+![](media/4_1_08.jpg)
 
-![4_1_PID_0009](C:\github\PLCBeginner\Лекції\media\4_1_PID_0009.jpg)
+![](media/4_1_09.jpg)
