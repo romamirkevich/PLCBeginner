@@ -1,4 +1,4 @@
-![](media/01_Modicon M221_new_0000002.jpg)
+![](media/01_Modicon M221_new_0000002.png)
 
 
 
