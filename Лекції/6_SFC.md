@@ -140,3 +140,7 @@ Bits ControllingGrafcet (SFC):
 -  Альтернативні гілки можуть містити вкладені паралельні гілки або інші альтернативні гілки.
 
 ![](media6/6_16.jpg)
+
+## Відео
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/ENCt_tSWKcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
