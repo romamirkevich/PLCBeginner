@@ -20,7 +20,7 @@
 
 На наступній діаграмі показані типові етапи розробки проекту на EcoStruxure Machine Expert - Basic (вкладки **Configuration**, **Programming** та **Commissioning**):
 
-![Pic_1](media1/pic_1.png)
+![pic_1](media1/pic_1.PNG)
 
 Рис. 1.1  етапи розробки проекту на EcoStruxure Machine Expert – Basic
 
