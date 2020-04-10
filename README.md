@@ -2,15 +2,9 @@
 
 [**Лекції**](Лекції)
 
-- 
-
 [**Лабораторні роботи**](Лаборат)
 
-- 
-
 Практичні заняття
-
-- 
 
 [**Курсове проектування**](Курсовий)
 
@@ -19,3 +13,6 @@
 
 
 [Сторінка курсу](https://romamirkevich.github.io/PLCBeginner/)
+
+[GitHub](https://github.com/romamirkevich/PLCBeginner)
+
