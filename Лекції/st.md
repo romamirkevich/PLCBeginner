@@ -216,6 +216,8 @@
 | LD %I0.2<br/>[%MW0:=SQRT(%MW10)] | ![](mediail/8_2.png)  |
 | LDR %I0.3<br/>[%MW10:=32767]     | ![](mediail/8_3.png)  |
 
+/
+
 
 
 
