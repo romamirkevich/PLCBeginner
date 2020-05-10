@@ -334,3 +334,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AlzEJIRDaIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Розробив лабораторну - Полупан Володимир. [АКТСУ НУХТ](http://www.iasu-nuft.pp.ua)
+
+
+
+| [<- до лаборної роботи 3 FB](lab3_FB.md)  | [лабораторні](README.md) |
+| ----------------------------------------- | ------------------------ |
+| [на основну сторінку курсу](../README.md) |                          |
+
