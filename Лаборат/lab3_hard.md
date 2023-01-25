@@ -14,7 +14,7 @@
 
 **Даний пункт виконується у випадку, якщо ПЗ не встановлене на робочому місці.** 
 
-- Перейдіть по посиланню та завантажте EcoStruxure Machine Expert - Basic https://www.se.com/ww/en/download/document/Machine_Expert_Basic/.
+- Перейдіть по посиланню та завантажте EcoStruxure Machine Expert - Basic https://www.se.com/ua/uk/download/document/Machine_Expert_Basic_V1_2_SP1/.
 
 - Запустіть програму на встановлення, виберіть мову.
 
